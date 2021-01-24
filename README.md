@@ -1,2 +1,5 @@
-# Hello-India
-This is Hello India Written in C Program
+#include<stdio.h>
+void main()
+{
+printf("Hello India....!!1");
+}
